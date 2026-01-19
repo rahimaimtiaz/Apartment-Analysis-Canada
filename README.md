@@ -5,7 +5,7 @@ End-to-end analysis of Canadian rental data using Python, OOP, and data visualiz
 
 End-to-end data analysis project using Python to clean, analyze, and visualize Canadian apartment rental data, delivering insights on affordability, pricing patterns, and amenities. Project Structure
 
-**📁 Project Structure**
+**📁 Project Structure***
 
 **Data**
 
