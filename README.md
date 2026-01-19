@@ -27,8 +27,10 @@ Performs exploratory data analysis (EDA) Creates visualizations using Matplotlib
 
 Python
 
-Pandas, NumPy
+Pandas, NumPy , time , tracemalloc
 
 Matplotlib
 
 Object-Oriented Programming (OOP)
+
+
